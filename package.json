@@ -1,0 +1,19 @@
+{
+  "name": "book-search-service",
+  "version": "1.0.0",
+  "description": "Search service to test ElasticSearch, Node, and CircleCI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrutfield/book-search-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zrutfield/book-search-service/issues"
+  },
+  "homepage": "https://github.com/zrutfield/book-search-service#readme"
+}
